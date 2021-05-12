@@ -1,0 +1,7 @@
+E:\leetcode\RunningSumof1dArray\bin\Debug\RunningSumof1dArray.exe.config
+E:\leetcode\RunningSumof1dArray\bin\Debug\RunningSumof1dArray.exe
+E:\leetcode\RunningSumof1dArray\bin\Debug\RunningSumof1dArray.pdb
+E:\leetcode\RunningSumof1dArray\obj\Debug\RunningSumof1dArray.csprojAssemblyReference.cache
+E:\leetcode\RunningSumof1dArray\obj\Debug\RunningSumof1dArray.csproj.CoreCompileInputs.cache
+E:\leetcode\RunningSumof1dArray\obj\Debug\RunningSumof1dArray.exe
+E:\leetcode\RunningSumof1dArray\obj\Debug\RunningSumof1dArray.pdb
