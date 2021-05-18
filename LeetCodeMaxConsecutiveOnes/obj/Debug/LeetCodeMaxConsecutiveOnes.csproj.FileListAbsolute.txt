@@ -1,0 +1,7 @@
+E:\C#\LeetCodeMaxConsecutiveOnes\bin\Debug\LeetCodeMaxConsecutiveOnes.exe.config
+E:\C#\LeetCodeMaxConsecutiveOnes\bin\Debug\LeetCodeMaxConsecutiveOnes.exe
+E:\C#\LeetCodeMaxConsecutiveOnes\bin\Debug\LeetCodeMaxConsecutiveOnes.pdb
+E:\C#\LeetCodeMaxConsecutiveOnes\obj\Debug\LeetCodeMaxConsecutiveOnes.csprojAssemblyReference.cache
+E:\C#\LeetCodeMaxConsecutiveOnes\obj\Debug\LeetCodeMaxConsecutiveOnes.csproj.CoreCompileInputs.cache
+E:\C#\LeetCodeMaxConsecutiveOnes\obj\Debug\LeetCodeMaxConsecutiveOnes.exe
+E:\C#\LeetCodeMaxConsecutiveOnes\obj\Debug\LeetCodeMaxConsecutiveOnes.pdb
